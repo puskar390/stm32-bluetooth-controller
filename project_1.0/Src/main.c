@@ -2,7 +2,7 @@
   ******************************************************************************
   * File Name          : main.c
   * Description        : control motors and LED via bluetooh using mobile app
-  * Programmer		   : Puskar Pandey and Yatharth Bhalla (Group 4)
+  * Programmer		   : Puskar Pandey
   * Date			   : 26 April 2016
   ******************************************************************************
   *
